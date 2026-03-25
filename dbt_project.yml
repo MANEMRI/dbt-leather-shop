@@ -44,6 +44,6 @@ models:
                     +materialized: table
               intermediate:
                     +materialized: ephemeral
-              mart:
+              marts:
                     +materialized: table
                     +schema: ANALYTICS
